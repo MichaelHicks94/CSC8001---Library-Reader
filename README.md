@@ -1,6 +1,6 @@
 # CSC8001---Library-Reader
 
-My third project for CSC8001. The goal of the project was to build an interface to simulate a library, which can loan and return books to, and from, people and store information about the books in the library. The aims of the project was to gain experience at designing interactive systems, to reinforce knowledge about the standard java.util.ArrayList<E> ckass and to gain experience in using the java.lang.Comparable<E> interface as well as using inheritance and generic classes in Java.
+My third project for CSC8001 (Programming and Data Structures). The goal of the project was to build an interface to simulate a library, which can loan and return books to, and from, people and store information about the books in the library. The aims of the project was to gain experience at designing interactive systems, to reinforce knowledge about the standard java.util.ArrayList<E> ckass and to gain experience in using the java.lang.Comparable<E> interface as well as using inheritance and generic classes in Java.
 
 Specification:
 
